@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How does the substitution of Ca2+ for Eu2+ in Eu1−xCaxTiO3−δ affect the optical band gap?",
+    "reference": "Partial substitution of Ca2+ for Eu2+ induces a distortion of the octahedral network and dilution of the Eu4f and N2p levels in the valence band, which widens the band gap in a controlled way."
+  },
+  {
+    "question": "What is the typical optical band gap of the oxynitride Eu0.4Ca0.6Ti(O,N)3 suitable for water oxidation?",
+    "reference": "Eu0.4Ca0.6Ti(O,N)3 has an optical band gap (EG) of approximately 2.2 eV, which is considered suitable for water oxidation."
+  },
+  {
+    "question": "What are the main challenges in using perovskite oxynitrides for photocatalytic water splitting?",
+    "reference": "Key challenges include low sintering tendency leading to poor electrical conductivity, and susceptibility to photocorrosion, often requiring protection layers or co-catalysts to improve performance."
+  },
+  {
+    "question": "How does the bandgap of perovskite oxides generally change when moving down a group for B-site cations?",
+    "reference": "As you go down a group for B-site cations (e.g., from Nb to Ta), the conduction band typically shifts to more negative potentials and the bandgap increases (e.g., NaNbO3 has Eg=3.3 eV while NaTaO3 has Eg=4.0 eV)."
+  },
+  {
+    "question": "What is the role of TiN in the synthesis of perovskite oxynitrides according to the paper?",
+    "reference": "TiN can act as a sintering aid to improve material compaction, but it can also act as a recombination center for photoinduced charge carriers if present in too high a concentration, potentially suppressing the photovoltage generation."
+  },
+  {
+    "question": "Why do perovskite oxynitrides have smaller band gaps than their parent oxide counterparts?",
+    "reference": "Nitrogen (N3-) is less electronegative than oxygen (O2-), so substituting oxygen with nitrogen in the anion sublattice raises the valence band maximum by mixing N2p states into it, reducing the band gap compared to the pure oxide."
+  },
+  {
+    "question": "What is the band gap energy of LaTiO2N and why is it considered suitable for photocatalytic water splitting?",
+    "reference": "LaTiO2N has a band gap energy of approximately 2.1 eV, which enables absorption of visible light. Its band edge positions straddle the water redox potentials, making it a candidate for photocatalytic water splitting under visible light."
+  },
+  {
+    "question": "What synthesis method is most commonly used to prepare perovskite oxynitride powders from oxide precursors?",
+    "reference": "Conventional ammonolysis — heating oxide precursor powders in flowing ammonia (NH3) at high temperatures (typically 800–1000°C) — is the most widely used method to convert oxide precursors into oxynitride perovskites."
+  },
+  {
+    "question": "How does epitaxial strain affect the band gap of perovskite oxynitrides differently from perovskite oxides?",
+    "reference": "In cubic oxides, both compressive and tensile strain narrow the band gap. In oxynitrides, the anion ordering lifts the degeneracy of N2p bands at zero strain, so compressive and tensile strain lead to opposite band gap evolutions depending on the anion order. Additionally, polar distortions in oxynitrides increase the band gap by up to 1 eV for 4% strain, compared to only about 0.1 eV for oxides under the same strain."
+  },
+  {
+    "question": "How many perovskite oxynitride and oxide compounds were screened in the high-throughput DFT study for visible-light photocatalysis, and what computational functional was used for final band gap evaluation?",
+    "reference": "A total of 29,160 perovskite oxynitrides and oxides were screened. Accurate band gaps were evaluated using the hybrid HSE06 functional with spin-orbit coupling, with gaps extrapolated to reduce computational cost."
+  },
+  {
+    "question": "What is the role of Ca2+-backfilling in LaTiO2N and how does it affect photocatalytic performance?",
+    "reference": "Ca2+-backfilling fills La-site vacancies in LaTiO2N that would otherwise form Ti3+ recombination centers. Ca2+-backfilled LaTiO2N exhibits higher photocatalytic activity for O2 evolution compared to Ca2+-substituted LaTiO2N, because it reduces the density of recombination-promoting defects."
+  },
+  {
+    "question": "What band gap range is considered optimal for a semiconductor used in solar water splitting?",
+    "reference": "A band gap of approximately 1.5 to 2.5 eV is generally considered optimal for solar water splitting, as it allows absorption of a significant fraction of the visible solar spectrum while providing sufficient thermodynamic driving force for the water oxidation and reduction half-reactions."
+  },
+  {
+    "question": "What is the key advantage of using the GW quasiparticle method over standard DFT for calculating band gaps of perovskite oxides?",
+    "reference": "Standard DFT with local or semilocal functionals (e.g., PBE) systematically underestimates band gaps. The GW quasiparticle method corrects for self-interaction and captures many-body effects, providing band gap predictions that are in much better agreement with experiment, as demonstrated for 4d perovskite oxides such as SrZrO3 and BaZrO3."
+  },
+  {
+    "question": "What effect does anionic ordering of O and N in perovskite oxynitrides have on their electronic band gap?",
+    "reference": "Anionic ordering — the arrangement of O and N on specific crystallographic sites — breaks the degeneracy of the N2p valence band states and can raise or lower the band gap relative to a random anion distribution. The band gap depends strongly on the local O/N arrangement, with cis-type ordering generally yielding smaller band gaps than trans-type ordering."
+  },
+  {
+    "question": "According to the computational screening paper, what criterion beyond band gap size is used to evaluate a perovskite oxide as a suitable photocatalyst for water splitting?",
+    "reference": "In addition to having a band gap in the visible light range (approximately 1.5–3.1 eV), the band edge positions (conduction band minimum and valence band maximum) must straddle the water redox potentials — i.e., the conduction band must lie above the H+/H2 reduction potential and the valence band below the O2/H2O oxidation potential."
+  }
+]
